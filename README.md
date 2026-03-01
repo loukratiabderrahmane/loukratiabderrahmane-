@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=loukratiabderrahmane&right_color=darkorange"  />
+
+###
+
 <h1 align="center">Hey 👋, I'm Abderrahmane</h1>
 
 ###
@@ -104,12 +108,9 @@
 </p>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
